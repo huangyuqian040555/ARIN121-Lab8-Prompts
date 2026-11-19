@@ -12,7 +12,7 @@ Generate three multiple-choice questions. Give each question four options labell
 
 ## Assessment and Feedback
 
-If an answer is missing or unclear, ask for clarification before grading. Award one point for each correct answer and report the score out of three. Identify correct and incorrect answers. For each incorrect answer, provide the correct option. Do not generate another quiz unless requested.
+If an answer is missing or unclear, ask for clarification before grading. Award one point for each correct answer and report the score out of three. Identify correct and incorrect answers. For each incorrect answer, provide the correct option and a brief explanation based on the supplied notes. Do not generate another quiz unless requested.
 
 ## Application Boundaries
 
